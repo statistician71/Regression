@@ -5,3 +5,4 @@ box()
 y<-rbinom(500)
 hist(y)
 
+
